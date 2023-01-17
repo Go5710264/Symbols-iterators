@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/fiem75sxodf9wlh9?svg=true)](https://ci.appveyor.com/project/Go5710264/symbols-iterators)
 
-Выполнена собственная реализация итератора объектов класса 'Team':
+Выполнена собственная реализация итератора объектов класса `Team`:
 
 ```javascript
   [Symbol.iterator]() {
